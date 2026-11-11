@@ -3,7 +3,7 @@
 🚀 [Visit My 3D Portfolio Website](https://vishalkumarai.github.io/)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 
-<h3 align="center">B.Tech CSE Student | AI/ Data Science</h3>
+<h3 align="center">B.Tech CSE Student | AI/Data Science</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI%2FML+Developer;Learning+Python+and+Data+Science" />
