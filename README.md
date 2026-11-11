@@ -31,8 +31,6 @@
 ### 🚀 My Projects
 
 * Personal Portfolio Website
-* Hostel Finder India
-* Calculator Project
 * Python Mini Projects
 
 ### 📊 GitHub Statistics
